@@ -1,0 +1,51 @@
+
+.heading{
+  padding-top: 30px;
+  font-size: 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+ul{
+  padding-left: 30px;
+  font-style: italic;
+  font-size: 20px;
+  
+}
+.subheading{
+  font-size: 30px;
+  font-style: italic;
+  padding-left: 30px;
+  
+}
+.result{
+  padding-top: 30px;
+  font-size: 30px;
+  padding-bottom: 30px;
+  margin-left: 30px;
+ 
+}
+.numbering{
+  margin-left: 30px;
+  font-size: 20px;
+ 
+}
+.hey{
+  margin-left: 30px;
+  font-size: 30px;
+
+}
+input{
+  margin-left: 30px;
+  text-align: center;
+}
+.main{
+  padding-left: 200px;
+  padding-right: 200px;
+  border-style: solid rgb(27, 38, 43);
+  background-color:  hsla(210, 21%, 93%, 0.568);
+  margin: 80px;
+}
+body{
+  background-color: hsla(216, 79%, 63%, 0.568);
+}
